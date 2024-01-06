@@ -1,2 +1,2 @@
 # MAgIC-Lab-Website
-This is an official website for MAgIC Lab from ShanghaiTech University.
+This is a official website for MAgIC Lab.

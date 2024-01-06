@@ -1,0 +1,11 @@
+{
+    "date": "2021/01",
+    "title": "Adaptive neural network control of an uncertain robotic manipulator with input constraint and external disturbance",
+    "authors": ["Heng Zhang", "Yang Wang"],
+    "press": "DDCLS, 2021",
+    "links": {
+        "doi": "https://doi.org/10.1109/DDCLS52934.2021.9455611"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

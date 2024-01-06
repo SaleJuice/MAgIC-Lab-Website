@@ -1,0 +1,11 @@
+{
+    "date": "2018/01",
+    "title": "Switching-based Sinusoidal Disturbance Rejection for Uncertain Stable Linear Systems",
+    "authors": ["Yang Wang", "Gilberto Pin", "Andrea Serrani", "Thomas Parisini"],
+    "press": "ACC, 2018",
+    "links": {
+        "doi": "https://doi.org/10.23919/ACC.2018.8431832"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

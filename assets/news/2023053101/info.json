@@ -1,0 +1,8 @@
+{
+    "date": "20230531",
+    "title": "Congratulations to Binglin He for ACC 2023 paper acceptance",
+    "description": "The papers entitled 'Decentralized Formation Control With Prescribed Distance Constraints and Shape Uniqueness' was accepted and presented on this year’s ACC conference held in San Diego, CA, USA. Our research focuses on the formation problem in Multi-Agent Systems (MAS), where we proposed a novel distributed control protocol that ensures the uniqueness of the formation and limits the distance between neighboring agents within a predetermined range. The proposed control law is decentralized, meaning each agent only utilizes local information related to its neighboring agents to calculate its control input. At the conference,  Binglin He gave a presentation and participated in the poster presentation session.",
+    "links": {
+        "acc2023": "https://acc2023.a2c2.org/"
+    }
+}

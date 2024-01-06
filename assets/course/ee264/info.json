@@ -1,0 +1,6 @@
+{
+    "code": "EE264",
+    "name": "Adaptive Control",
+    "description": "This course provides a rigorous introduction to the theory and methodology used in the field of adaptive control. Concepts are presented in the context of uncertain systems, addressing issues such as uncertainty of model, disturbance rejection and partial measurements. The techniques taught in this course considered advanced in the field of modern control theory and can also be used in the area of system identification and signal processing. The course is highly recommended for all students in the field of engineering, mathematics, physics, and computer science, who want to develop an advanced understanding of control. It founds various applications in electrical or electronic engineering, mechiniacal engineering, robotics, signal processing, artificial intelligence and so on.",
+    "is_opening": "True"
+}

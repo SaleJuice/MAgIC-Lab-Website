@@ -1,0 +1,11 @@
+{
+    "date": "2020/01",
+    "title": "Removing SPR-like Conditions in Adaptive Feedforward Control of Uncertain Systems",
+    "authors": ["Yang Wang", "Gilberto Pin", "Andrea Serrani", "Thomas Parisini"],
+    "press": "TAC, 2020",
+    "links": {
+        "doi": "https://doi.org/10.1109/TAC.2019.2934394"
+    },
+    "is_accepted": "True",
+    "is_journal": "True"
+}

@@ -1,0 +1,11 @@
+{
+    "date": "2016/08",
+    "title": "Removing SPR-like Conditions in Adaptive Feedforward Control of Uncertain Systems",
+    "authors": ["Yang Wang", "Gilberto Pin", "Andrea Serrani", "Thomas Parisini"],
+    "press": "CDC, 2016",
+    "links": {
+        "doi": "https://doi.org/10.1109/CDC.2016.7798990"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

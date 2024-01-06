@@ -1,0 +1,14 @@
+{
+    "date": "2023/06",
+    "title": "Exploring Learning-based Control Policy for Fish-like Robots in Altered Background Flows",
+    "authors": ["Xiaozhu Lin", "Wenbin Song", "Xiaopei Liu", "Xuming He", "Yang Wang"],
+    "press": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2023)",
+    "links": {
+        "Script": "script.pdf",
+        "Poster": "poster.pdf",
+        "Video": "video.mp4",
+        "Talk": "talk.mp4"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

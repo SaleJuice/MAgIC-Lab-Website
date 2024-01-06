@@ -1,0 +1,11 @@
+{
+    "date": "2019/08",
+    "title": "Switching-based Rejection of Multi-sinusoidal Disturbance in Uncertain Stable Linear Systems under Measurement Noise",
+    "authors": ["Yang Wang", "Gilberto Pin", "Andrea Serrani", "Thomas Parisini"],
+    "press": "CDC, 2019",
+    "links": {
+        "doi": "https://doi.org/10.1109/CDC40024.2019.9029441"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

@@ -1,0 +1,10 @@
+{
+    "date": "20221206",
+    "title": "Congratulations to MAgIC Lab for two paper acceptances on CDC2022",
+    "description": "The paper entitled 'Unknown Input Observer-based Output Regulation for Uncertain Minimum Phase Linear Systems Affected by a Periodic Disturbance' and 'Parameter-dependent Input Normalization: Direct-Adaptive control with Uncertain Control Direction' was accepted and presented on this year's CDC conference held in Cancun. The first work proposes on a new framework that combines an internal mode-based output regulator and a sliding-mode based observer to solve the disturbance rejection problem for a highly uncertain system. The later one removes the critical assumption on high frequency gain in the classic MRAC while preserves a good transient performance. Both results received attention and discussion from attendee.",
+    "links": {
+        "cdc2022": "https://cdc2022.ieeecss.org/",
+        "ieeexplore1": "https://ieeexplore.ieee.org/document/9992590",
+        "ieeexplore2": "https://ieeexplore.ieee.org/document/9993011"
+    }
+}

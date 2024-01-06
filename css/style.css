@@ -1,0 +1,388 @@
+/* Home */
+.home {
+  margin: 0 auto;
+  padding: 0 0;
+}
+
+
+/* Introduction */
+#introduction {
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 20px 20px;
+
+  background: white;
+  box-shadow: 0 0 15px gray;
+}
+
+
+/* News */
+.news {
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 20px 20px;
+
+  overflow: hidden;
+
+  background: white;
+  box-shadow: 0 0 15px gray;
+  border-radius:15px;
+}
+
+.news .picture {
+  width: 150px;
+  height: 150px;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+
+  float: left;
+}
+
+.news .picture img {
+  width: 100%;
+  height: 100%;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+}
+
+.news .info {
+  margin: 0 auto;
+  padding: 0px;
+
+  padding-left: 15px;
+
+  overflow: hidden;
+}
+
+.news .info .date{ 
+  font-size: large;
+  font-weight: normal;
+  color:dimgray;
+}
+
+.news .info .title {
+  margin-bottom: 3px;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.news .info .describe {
+  margin-right: 40px;
+  margin-bottom: 3px;
+  font-size: medium;
+  font-weight: normal;
+  color: gray;
+}
+
+.news .info a { 
+  font-size: medium;
+  color: blue;
+}
+
+/* People */
+.people {
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 15px 15px;
+
+  overflow: hidden;
+
+  background: white;
+  box-shadow: 0 0 15px gray;
+  border-radius:15px;
+}
+
+.people .picture {
+  width: 90px;
+  height: 120px;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+
+  float: left;
+}
+
+.people .picture img { 
+  width: 100%;
+  height: 100%;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+}
+
+.people .info { 
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 0px;
+
+  padding-left: 15px;
+
+  overflow: hidden;
+}
+
+.people .info .office {
+  font-size: medium;
+  font-weight: normal;
+  color: dimgray;
+}
+
+.people .info .name {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.people .info .phone {
+  font-size: medium;
+}
+
+.people .info .interests {
+  margin-right: 20px;
+  margin-bottom: 3px;
+  font-size: medium;
+  font-weight: normal;
+  color: gray;
+}
+
+.people .info .going {
+  font-size: medium;
+}
+
+.people .info a {
+  margin-right: 10px;
+  font-size: medium;
+  color: blue;
+}
+
+
+/* Research */
+.research {
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 20px 20px;
+
+  overflow: hidden;
+
+  background: white;
+  box-shadow: 0 0 15px gray;
+  border-radius:15px;
+}
+
+.research .info { 
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 0 0 0 10px;
+
+  line-height: 1.5;
+
+  overflow: hidden; 
+}
+
+.research .info .title {
+  font-size: large;
+  font-weight: bolder;
+}
+
+.research .info .describe {
+  font-size: medium;
+  font-weight: normal;
+  color: gray;
+}
+
+.research .info a {
+  margin-right: 10px;
+  font-size: medium;
+  color: blue;
+}
+
+
+/* Publication */
+.publication {
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 20px 20px;
+
+  overflow: hidden;
+
+  background: white;
+  box-shadow: 0 0 15px gray;
+  border-radius:15px;
+}
+
+.publication .picture {
+  width: 150px;
+  height: 150px;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+
+  float: left;
+}
+
+.publication .picture img {
+  width: 100%;
+  height: 100%;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+}
+
+.publication .info {
+  margin: 0 auto;
+  padding: 0px;
+
+  padding-left: 15px;
+
+  overflow: hidden;
+}
+
+.publication .info .title {
+  font-size: large;
+  font-weight: bolder;
+}
+
+.publication .info .author {
+  font-size: medium;
+  font-weight: normal;
+  color:dimgray;
+}
+
+.publication .info .others {
+  font-size: medium;
+  font-weight: normal;
+  color: gray;
+}
+
+.publication .info a {
+  margin-right: 10px;
+  font-size: medium;
+  color: blue;
+}
+
+
+/* Course */
+.course {
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 20px 20px;
+
+  overflow: hidden;
+
+  background: white;
+  box-shadow: 0 0 15px gray;
+  border-radius:15px;
+}
+
+.course .info {
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.course .info .code{ 
+  font-size: large;
+  font-weight: normal;
+  color:dimgray;
+}
+
+.course .info .name {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.course .info .describe {
+  margin-right: 40px;
+  margin-bottom: 3px;
+  font-size: medium;
+  font-weight: normal;
+  color: gray;
+}
+
+.course .info a {
+  margin-right: 30px;
+  font-size: medium;
+  color: blue;
+}
+
+
+/* Activity */
+.activity {
+  width: auto;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 20px 20px;
+
+  overflow: hidden;
+
+  background: white;
+  box-shadow: 0 0 15px gray;
+  border-radius:15px;
+}
+
+.activity .picture {
+  width: 50%;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+}
+
+.activity .picture img {
+  width: 100%;
+  height: auto;
+
+  margin: 0 auto;
+  padding: 0px 0px;
+}
+
+@keyframes switch {
+	0%, 25% {
+		margin-left: 0;
+	}
+	35%, 60% {
+		margin-left: -150px;
+	}
+	70%, 100% {
+		margin-left: -300px;
+	}
+}
+
+.activity .info {
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.activity .info .date{ 
+  font-size: large;
+  font-weight: normal;
+  color:dimgray;
+}
+
+.activity .info .title {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+
+/* Teaching */
+
+
+
+/* Contact */

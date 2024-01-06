@@ -1,0 +1,11 @@
+{
+    "date": "2022/08",
+    "title": "Parameter-dependent Input Normalization: Direct-Adaptive control with Uncertain Control Direction",
+    "authors": ["Gilberto Pin", "Andrea Serrani", "Yang Wang"],
+    "press": "CDC, 2022",
+    "links": {
+        "doi": "https://doi.org/10.1109/CDC51059.2022.9993011"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

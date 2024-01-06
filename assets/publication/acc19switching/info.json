@@ -1,0 +1,11 @@
+{
+    "date": "2019/01",
+    "title": "Switching-based Rejection of an Unknown Harmonic Disturbance in Uncertain Stable Linear Systems under Measurement Noise",
+    "authors": ["Yang Wang", "Gilberto Pin", "Andrea Serrani", "Thomas Parisini"],
+    "press": "ACC, 2019",
+    "links": {
+        "doi": "https://doi.org/10.23919/ACC.2019.8815279"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

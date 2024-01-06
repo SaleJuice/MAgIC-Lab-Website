@@ -1,0 +1,11 @@
+{
+    "date": "2022/01",
+    "title": "Switching-based Adaptive Output Regulation for Uncertain Systems Affected by a Periodic Disturbance",
+    "authors": ["Guanqi He", "Yang Wang", "Gilberto Pin", "Andrea Serrani", "Thomas Parisini"],
+    "press": "ACC, 2022",
+    "links": {
+        "doi": "https://doi.org/10.23919/ACC53348.2022.9867879"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

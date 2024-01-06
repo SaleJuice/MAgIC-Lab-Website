@@ -1,0 +1,6 @@
+{
+    "code": "EE160",
+    "name": "Introduction of Control",
+    "description": "The course 'Introduction of Control' provides an overview of control systems. We cover scalar models as well as single-input-single-output (SISO) systems and basic concepts of linear control system design including PID control. Towards the end of the lecture we touch basic ideas of modern controller design based on optimization including the linear-quadratic regulator, a famous controller that can be used to design closed-loop feedback gains for multi-input-multi-output (MIMO) systems. Moreover, all students will learn how to use the theory of this lecture in practical applications. We will discuss a large number of application problems and the students will use at least one programming language to simulate and design control systems. Active participation in numerous smaller and bigger programming projects is required. The course is highly recommended for all students in the field of engineering, mathematics, physics, and computer science, who want to develop a basic understanding of control. The course is mandatory for everyone who wants to work in electrical or electronic engineering, circuit design, robotics, signal processing, network algorithms, and optimal control.",
+    "is_opening": "False"
+}
