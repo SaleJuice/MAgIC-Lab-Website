@@ -16,9 +16,9 @@ structure = """
 
     <title>MAgIC Lab</title>
 
-    <link href="css/font.css" rel="stylesheet" type="text/css">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <link href="css/master.css" rel="stylesheet" type="text/css">
+    <link href="./css/font.css" rel="stylesheet" type="text/css">
+    <link href="./css/master.css" rel="stylesheet" type="text/css">
+    <link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body id="body"><!--This is the body part, include of page.-->
@@ -144,7 +144,13 @@ def generate_research_page():
                     <p class="title">
                         Hydrodynamic-Interactive Systems
                     </p>
-                    <img src="assets/research/fish.jpg">
+                    <img src="./assets/research/fish.jpg">
+                    <video width="450" controls>
+                        <source src="./assets/publication/iros23exploring/video.mp4" type="video/mp4">
+                    </video>
+                    <video width="450" controls>
+                        <source src="./assets/publication/icra24dynamic/video.mp4" type="video/mp4">
+                    </video>
                     <p class="describe">
                         Robotic fish has gained substantial attention in robotics field in past decades due to their unique benefits, including concealment, flexibility, and energy efficiency. Notable advancements have been achieved in various aspects of this domain, including the realm of electromechanical construction  underwater perception and control However, the problem of dynamic modelling  for the robotic fish, although plays a crucial role in motion planning and control, remains unsolved and challenging due to its inherently high-dimensional and non-linear nature, particularly when operating in complicated environments with background flow.
                     </p>
@@ -159,6 +165,9 @@ def generate_research_page():
                     Aerodynamic-Interactive Robotic Systems
                 </p>
                 <img src="assets/research/uav.png">
+                <video width="900" controls>
+                    <source src="./assets/research/ICRA24_1477_VI_i.mp4" type="video/mp4">
+                </video>
                 <p class="describe">
                     In contemporary times, Unmanned Aerial Vehicles (UAVs) play a crucial role in various scenarios. Particularly, UAVs have proven to be highly valuable when employed in various specialized tasks such as search and rescue operations, survey missions, and environmental monitoring. One critical aspect among these is ensuring the safe near ground flight of UAVs. Aside from the UAV’s nonlinear characteristics and limited platform size, the intricate interactions between rotor airflow and the ground may result in flight instability or even catastrophic failure. This phenomenon, known as the Ground Effect (GE), poses a great challenge that must be addressed to achieve safe near-ground maneuver including autonomous landings on vertical oscillating platforms.
                 </p>
@@ -173,8 +182,11 @@ def generate_research_page():
                 AcousticField-Interactive System
                 </p>
                 <img src="assets/research/anc.png">
+                <video width="900" controls>
+                    <source src="./assets/research/ICRA24_0518_VI_i.mp4" type="video/mp4">
+                </video>
                 <p class="describe">
-                The active control of noises or disturbances has achieved great success in modern robotics, industrial processes, and automation systems. As a promising technique, active noise control (ANC) aims to mitigate unwanted noises by virtue of generating anti-noise sound waves that destructively interfere with coming-forth unwanted sound noises.
+                    The active control of noises or disturbances has achieved great success in modern robotics, industrial processes, and automation systems. As a promising technique, active noise control (ANC) aims to mitigate unwanted noises by virtue of generating anti-noise sound waves that destructively interfere with coming-forth unwanted sound noises.
                 </p>
             </div>
             </div>
@@ -202,7 +214,7 @@ def generate_research_page():
             <div class="research">
             <div class="info">
                 <p class="title">
-                    IM-based Solution(IFAC2023)
+                    IM-based Solution (IFAC2023)
                 </p>
                 <img src="assets/research/im.png">
                 <p class="describe">
@@ -230,7 +242,7 @@ def generate_research_page():
             <div class="research">
             <div class="info">
                 <p class="title">
-                    ILC-Embedded MRAC(CDC2024)
+                    ILC-Embedded MRAC (CDC2024)
                 </p>
                 <img src="assets/research/ilc_mrac.png">
                 <p class="describe">
@@ -261,6 +273,12 @@ def generate_research_page():
                     Formation Control (ACC2023)
                 </p>
                 <img src="assets/research/fc_1.png">
+                <video width="450" controls>
+                    <source src="./assets/research/GCL.mp4" type="video/mp4">
+                </video>
+                <video width="450" controls>
+                    <source src="./assets/research/MyCL.mp4" type="video/mp4">
+                </video>
                 <p class="describe">
                         
                 </p>
@@ -272,9 +290,15 @@ def generate_research_page():
             <div class="research">
             <div class="info">
                 <p class="title">
-                    Formation Control(ROBIO2023)
+                    Formation Control (ROBIO2023)
                 </p>
                 <img src="assets/research/fc_2.png">
+                <video width="450" controls>
+                    <source src="./assets/research/E_GCL.mp4" type="video/mp4">
+                </video>
+                <video width="450" controls>
+                    <source src="./assets/research/E_MyCL.mp4" type="video/mp4">
+                </video>
                 <p class="describe">
                         
                 </p>
@@ -416,7 +440,7 @@ def generate_people_page():
 
 def generate_publication_page():
     path = "./assets/publication/"
-    publication = pd.DataFrame(columns=['id', 'date', 'title', 'authors', 'press', 'links', 'is_accepted', 'is_journal', 'cover', 'script', 'video'])
+    publication = pd.DataFrame(columns=['id', 'date', 'title', 'authors', 'press', 'links', 'is_accepted', 'is_journal', 'cover'])
 
     for folder_name in os.listdir(path):
         with open(os.path.join(path, folder_name, 'info.json'), 'r') as fp:

@@ -1,0 +1,13 @@
+{
+    "date": "2023/10",
+    "title": "Enhancing Convergence Speed of Multi-Agent Formation Control via Laplacian Functions",
+    "authors": ["Qilong Zhang", "Binglin He", "Yangyang Zhao", "Song Liu", "Yang Wang"],
+    "press": "The 2023 IEEE International Conference on Robotics and Biomimetics(ROBIO) 2023 ",
+    "links": {
+        "Script": "script.pdf",
+        "Video": "video.mp4",
+        "Talk": "talk.mp4"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}
