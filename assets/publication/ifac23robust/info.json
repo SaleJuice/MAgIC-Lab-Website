@@ -1,0 +1,12 @@
+{
+    "date": "2023/03",
+    "title": "Robust Output Regulation for Uncertain Discrete-Time Linear Systems under the Effect of a Sinusoidal Disturbance",
+    "authors": ["Jiangkun Xu", "Song Liu", "Jia Jia", "Yang Wang"],
+    "press": "The 22nd World Congress of the International Federation of Automatic Control(IFAC World Congress) 2023",
+    "links": {
+        "Script": "script.pdf",
+        "Talk": "talk.mp4"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}
