@@ -1,0 +1,12 @@
+{
+    "date": "2023/11",
+    "title": "Iterative Learning Embedded Composite Model Reference Adaptive Control for Off-Axis In-Situ Rotation in Nanorobotic Manipulation",
+    "authors": ["Heng Zhang", "Xiang Fu", "Song Liu", "Yang Wang"],
+    "press": "IEEE Control Systems Letters",
+    "links": {
+        "Script": "script.pdf",
+        "Video": "video.mp4"
+    },
+    "is_accepted": "True",
+    "is_journal": "True"
+}

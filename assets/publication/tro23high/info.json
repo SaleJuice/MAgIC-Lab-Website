@@ -1,0 +1,11 @@
+{
+    "date": "2023/12",
+    "title": "High Order Iterative Learning Control for Off-axis In-situ Rotation of Nanorobot inside SEM",
+    "authors": ["Xiang Fu", "Heng Zhang", "Yuting Yang", "Yang Wang", "Song Liu"],
+    "press": "The IEEE Transactions on Robotics (T-RO)",
+    "links": {
+        "Script": "script.pdf"
+    },
+    "is_accepted": "False",
+    "is_journal": "True"
+}
