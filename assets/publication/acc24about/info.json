@@ -1,0 +1,12 @@
+{
+    "date": "2023/09",
+    "title": "About Robustness of an Internal Model-based Disturbance Compensator without SPR-like Conditions",
+    "authors": ["Qilong Zhang", "Yang Wang"],
+    "press": "2024 American Control Conference (ACC)",
+    "links": {
+        "Script": "script.pdf",
+        "Video": "video.mp4"
+    },
+    "is_accepted": "False",
+    "is_journal": "False"
+}
