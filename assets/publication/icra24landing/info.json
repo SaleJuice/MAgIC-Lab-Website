@@ -1,0 +1,12 @@
+{
+    "date": "2023/09",
+    "title": "Data-Driven Modeling of Ground Effect For UAV Landing on a Vertical Oscillating Platform",
+    "authors": ["Binglin He", "Heng Zhang", "Song Liu", "Yang Wang"],
+    "press": "2024 IEEE International Conference on Robotics and Automation(ICRA)",
+    "links": {
+        "Script": "script.pdf",
+        "Video": "video.mp4"
+    },
+    "is_accepted": "False",
+    "is_journal": "False"
+}

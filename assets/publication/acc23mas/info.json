@@ -1,0 +1,12 @@
+{
+    "date": "2023/01",
+    "title": "Decentralized Formation Control With Prescribed Distance Constraints and Shape Uniqueness",
+    "authors": ["Yuqi Pan", "Binglin He", "Junyi Geng", "Yang Wang"],
+    "press": "2023 American Control Conference (ACC)",
+    "links": {
+        "Script": "script.pdf",
+        "Video": "video.mp4"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}
