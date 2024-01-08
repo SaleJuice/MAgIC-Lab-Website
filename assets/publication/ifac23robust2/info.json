@@ -1,0 +1,12 @@
+{
+    "date": "2023/03",
+    "title": "Robust Output Regulation for Uncertain Linear Minimum Phase Systems under Unknown Control Direction",
+    "authors": ["Yizhou Gong", "Fanglai Zhu", "Yang Wang"],
+    "press": "The 22nd World Congress of the International Federation of Automatic Control (IFAC2023)",
+    "links": {
+        "Script": "script.pdf",
+        "Talk": "talk.mp4"
+    },
+    "is_accepted": "True",
+    "is_journal": "False"
+}

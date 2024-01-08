@@ -1,10 +1,11 @@
 {
-    "date": "2022/08",
+    "date": "2022/07",
     "title": "Unknown Input Observer-based Output Regulation for Uncertain Minimum Phase Linear Systems Affected by a Periodic Disturbance",
     "authors": ["Yang Wang", "Yizhou Gong", "Gilberto Pin", "Fanglai Zhu", "Andrea Serrani", "Thomas Parisini"],
-    "press": "CDC, 2022",
+    "press": "2022 IEEE 61st Conference on Decision and Control (CDC)",
     "links": {
-        "doi": "https://doi.org/10.1109/CDC51059.2022.9992590"
+        "Script": "script.pdf",
+        "Talk": "talk.mp4"
     },
     "is_accepted": "True",
     "is_journal": "False"
