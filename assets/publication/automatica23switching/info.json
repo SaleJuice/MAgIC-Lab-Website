@@ -4,7 +4,7 @@
     "authors": ["Yang Wang", "Gilberto Pin", "Andrea Serrani", "Thomas Parisini"],
     "press": "Automatica, 2023",
     "links": {
-        "": ""
+        "Script": "script.pdf"
     },
     "is_accepted": "False",
     "is_journal": "True"
