@@ -1,0 +1,11 @@
+{
+    "date": "2024/02",
+    "title": "Robust output regulation for uncertain nonlinear minimum phase systems under unknown control direction",
+    "authors": ["Yizhou Gong", "Fanglai Zhu", "Yang Wang"],
+    "press": "Systems & Control Letters",
+    "links": {
+        "Script": "script.pdf"
+    },
+    "is_accepted": "True",
+    "is_journal": "True"
+}
