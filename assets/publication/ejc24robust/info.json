@@ -1,0 +1,11 @@
+{
+    "date": "2024/04",
+    "title": "Robust output regulation of a class of uncertain nonlinear minimum phase systems perturbed by unknown external disturbances",
+    "authors": ["Yizhou Gong", "Fanglai Zhu",  "Yang Wang"],
+    "press": "European Journal of Control",
+    "links": {
+        "Script": "script.pdf"
+           },
+    "is_accepted": "True",
+    "is_journal": "True"
+}

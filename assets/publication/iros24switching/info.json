@@ -1,8 +1,8 @@
 {
-    "date": "2023/09",
+    "date": "2024/03",
     "title": "Switching-based Adaptive Active Control for Periodic Noises in Unknown 3D Environment",
     "authors": ["Chengxi Zhong", "Qilong Zhang", "Guanqi He", "Song Liu", "Yang Wang"],
-    "press": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "press": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)",
     "links": {
         "Script": "script.pdf",
         "Video": "video.mp4"
