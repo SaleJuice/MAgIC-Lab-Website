@@ -1,0 +1,9 @@
+{
+    "date": "20240402",
+    "title": "Contributions to MAgIC Lab for two papers accepted to SCL and EJC, respectively.",
+    "description": "The papers entitled 'Robust output regulation for uncertain nonlinear minimum phase systems under unknown control direction' and 'Robust output regulation of a class of uncertain nonlinear minimum phase systems perturbed by unknown external disturbances' have been accepted to Systems & Control Letters and European Journal of Control. The former focuses on disturbance rejection for systems with unknown control direction, while the latter achieves exact reconstruction of unstructured disturbances and closed-loop stabilization. The proposed methods have potentials in controlling uncertain systems in a perturbed environment, such as active noise cancellation, and AC motor control. Anyone is welcome to discuss with us!",
+    "links": {
+        "Systems & Control Letters": "https://www.sciencedirect.com/science/article/abs/pii/S0947358024000529",
+        "European Journal of Control": "https://www.sciencedirect.com/science/article/abs/pii/S0167691124000355"
+    }
+}

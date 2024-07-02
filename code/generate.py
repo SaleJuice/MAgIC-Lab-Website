@@ -62,7 +62,7 @@ structure = """
         <div id="bottom"><!--This is the bottom part.-->
             <div class="copyright">
                 <p>
-                    Copyright © 2020-2022 Multi-Agent & Intelligent Control (MAgIC) Lab
+                    Copyright © 2020-2024 Multi-Agent & Intelligent Control (MAgIC) Lab
                 </p>
             </div>
         </div>
@@ -324,13 +324,13 @@ def generate_people_page():
 
     nowadays = datetime.datetime.now().strftime('%Y/%m')
 
-    present = people[(people['leave'] >= nowadays) | (people['leave'] == "")]
+    present = people[(people['leave'] > nowadays) | (people['leave'] == "")]
     pi = present[present['identity'] == 'pi']
     phd = present[present['identity'] == 'phd']
     master = present[present['identity'] == 'master']
     undergraduate = present[present['identity'] == 'undergraduate']
 
-    former = people[(people['leave'] < nowadays) & (people['leave'] != "")]
+    alumni = people[(people['leave'] <= nowadays) & (people['leave'] != "")]
     
     content = ""
     content += f"""<h1>People</h1><br>"""
@@ -415,9 +415,9 @@ def generate_people_page():
         
     content += """<br>"""
 
-    content += f"""<h2>Former</h2><br>"""
+    content += f"""<h2>Alumni</h2><br>"""
 
-    for i, info in former.iterrows():
+    for i, info in alumni.iterrows():
         content += f"""
         <div class="people">
             <div class="picture">

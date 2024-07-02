@@ -1,5 +1,5 @@
 {
-    "date": "2023/09",
+    "date": "2024/06",
     "title": "Dynamic Modelling of Robotic Fish with Consideration to Background Flow Using Koopman Theory",
     "authors": ["Xiaozhu Lin", "Song Liu", "Yang Wang"],
     "press": "2024 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)",
@@ -7,6 +7,6 @@
         "Script": "script.pdf",
         "Video": "video.mp4"
     },
-    "is_accepted": "False",
+    "is_accepted": "True",
     "is_journal": "False"
 }

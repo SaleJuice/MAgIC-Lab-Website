@@ -1,11 +1,11 @@
 {
-    "date": "2023/12",
+    "date": "2024/02",
     "title": "Adaptive neural network control of robotic manipulators with input constraints and without velocity measurements",
     "authors": ["Heng Zhang", "Yangyang Zhao", "Yang Wang", "Lin Liu"],
     "press": "IET Control Theory & Applications",
     "links": {
         "Script": "script.pdf"
     },
-    "is_accepted": "False",
+    "is_accepted": "True",
     "is_journal": "True"
 }
