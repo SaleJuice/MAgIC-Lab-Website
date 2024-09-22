@@ -153,8 +153,12 @@
   color: gray;
 }
 
-.people .info .going {
+.people .info .goto {
+  margin-right: 20px;
+  margin-bottom: 3px;
   font-size: medium;
+  font-weight: normal;
+  color: gray;
 }
 
 .people .info a {

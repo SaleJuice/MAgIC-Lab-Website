@@ -331,6 +331,8 @@ def generate_people_page():
     undergraduate = present[present['identity'] == 'undergraduate']
 
     alumni = people[(people['leave'] <= nowadays) & (people['leave'] != "")]
+    alumni.sort_values(by='leave', ascending=True, inplace=True)  # FIXME SettingWithCopyWarning: A value is trying to be set on a copy of a slice from a DataFrame
+    alumni.reset_index(drop=True, inplace=True)
     
     content = ""
     content += f"""<h1>People</h1><br>"""
@@ -426,7 +428,7 @@ def generate_people_page():
             <div class="info">
                 <p class="office">{info['office']}</p>
                 <p class="name">{info['given name']+" "+info['family name']}</p>
-                <p class="interests">{", ".join(info['interests'])}</p>
+                <p class="goto">{info['goto']}</p>
                 <a href="mailto:{info['email']}">email</a>
                 <a href="{info['page']}" target="_blank">page</a>
                 <a href="{os.path.join(path, info['id'], "cv.pdf")}" target="_blank">CV</a>
